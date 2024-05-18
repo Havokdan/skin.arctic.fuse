@@ -1289,7 +1289,7 @@ msgctxt "#31272"
 msgid "Searching"
 msgstr "Pesquisando"
 
-#: /1080i/SkinSettings.xml /1080i/Includes_MediaFilter.
+#: /1080i/SkinSettings.xml /1080i/Includes_MediaFilter.xml
 msgctxt "#31273"
 msgid "Press down to access scrollbar"
 msgstr "Pressione para baixo para acessar a barra de rolagem"
